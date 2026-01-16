@@ -1,0 +1,7 @@
+{
+  "name": "Free Online Tools Hub",
+  "description": "A production-ready suite of high-performance online utilities including a word counter, image compressor, password generator, age calculator, and text-to-speech tool. Optimized for SEO and Google AdSense.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
